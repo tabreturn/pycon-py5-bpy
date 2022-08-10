@@ -26,16 +26,7 @@ Tens of thousands of students, artists, designers, researchers, and hobbyists, u
 * [Processing forum](https://discourse.processing.org/c/processing-py/9)
 * [thonny-py5mode](https://github.com/tabreturn/thonny-py5mode)
 
-### Plotter utilities
-
-* [vpype](https://github.com/abey79/vpype)  
-  the Swiss-Army-knife command-line tool for plotter vector graphics
-* [vpype-occult](https://github.com/LoicGoulefert/occult)  
-  vpype plug-in to remove lines occulted by polygons from SVG files
-* [vsketch](https://github.com/abey79/vsketch)  
-  a Python generative art toolkit for plotters
-
-## Other useful Python-Processing resources 
+### Other useful Python-Processing resources 
 
 * [Demystifying the Python-Processing Landscape: An Overview of Tools Combining Python and Processing](https://dl.acm.org/doi/10.1145/3532836.3536231)
 * [Villares' comprehensive list of resources](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table) for teaching programming for artists, designers, and architects
@@ -61,3 +52,15 @@ Blender is open-source software for 3D modelling and animation that can also han
 * https://blog.lightprocesses.com/
 * https://github.com/a1studmuffin/SpaceshipGenerator
 * https://ylegall.github.io/
+
+---
+
+## Plotter utilities
+
+* [vpype](https://github.com/abey79/vpype)  
+  the Swiss-Army-knife command-line tool for plotter vector graphics
+* [vpype-occult](https://github.com/LoicGoulefert/occult)  
+  vpype plug-in to remove lines occulted by polygons from SVG files
+* [vsketch](https://github.com/abey79/vsketch)  
+  a Python generative art toolkit for plotters
+
