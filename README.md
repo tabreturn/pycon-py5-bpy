@@ -12,7 +12,7 @@
 
 Tens of thousands of students, artists, designers, researchers, and hobbyists, use Processing for programming art and prototyping. py5 is a new version of Processing for Python 3.8+ that makes Processing available to the CPython interpreter (using JPype). py5 can do just about everything Processing can, except with Python (instead of Java code), with the added bonus of incorporating popular Python libraries such as numpy and Pillow, and a notebook interface. This session will provide an overview of the py5 coding environment, and examples of the type of artwork one can create.
 
-**py5 examples:** [./py5_examples](./examples_py5)
+**py5 examples:** [./py5_examples](./py5_examples)
 
 ### py5 resources
 
@@ -46,7 +46,7 @@ Tens of thousands of students, artists, designers, researchers, and hobbyists, u
 
 Blender is open-source software for 3D modelling and animation that can also handle compositing, video editing, and 2D animation. Artists and animators operate Blender using a graphic user interface, but it also features a Python API (via bpy) that can do everything the GUI can and more. That means you can use Python code to draw, animate, and manipulate 3D objects, with a powerful render engine to output your code-generated creations in high-resolution image and video formats. This session includes an introduction to using Blender's code editor, info editor, Python console, developer extras, and assistive scripting features to address 3D objects, spawn, and manipulate them via different attributes and methods.
 
-**bpy examples:** [./bpy_examples](./examples_bpy)
+**bpy examples:** [./bpy_examples](./bpy_examples)
 
 ### Some useful resources
 
