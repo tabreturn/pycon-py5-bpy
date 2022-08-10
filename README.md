@@ -1,6 +1,6 @@
 # Kiwi PyCon XI Resources 
 
-*Resources for my Kiwi PyCon XI session, [Generative Art with Python (using py5 and bpy)](https://pretalx.com/kiwipycon-2021/talk/T3Q3HP/)
+*Resources for my Kiwi PyCon XI session, [Generative Art with Python (using py5 and bpy)](https://pretalx.com/kiwipycon-2021/talk/T3Q3HP/)*
 
 ![](banner.png)
 
