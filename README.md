@@ -26,6 +26,7 @@ Tens of thousands of students, artists, designers, researchers, and hobbyists, u
 * [GitHub discussions (forum)](https://github.com/py5coding/py5generator)
 * [GitHub issues (bugs)](https://github.com/py5coding/py5generator/issues)
 * [Processing forum](https://discourse.processing.org/c/processing-py/9)
+* [thonny-py5mode](https://github.com/tabreturn/thonny-py5mode)
 
 ### Plotter utilities
 
