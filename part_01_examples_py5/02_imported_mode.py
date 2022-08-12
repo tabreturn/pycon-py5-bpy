@@ -1,9 +1,18 @@
 # imported mode example
 
+def fxrand():
+    random_seed(123)
+
 def setup():
-    size(300, 200)
+    size(400, 400)
+    fxrand()
+    no_loop()
 
 def draw():
+    stroke_weight(3)
+    # face
     fill('#F00')
-    circle(mouse_x, mouse_y, 10)
-
+    circle(width/2, height/2, 300)
+    #eyes
+    circle(160, 150, random(50, 150))
+    circle(width-160, 150, random(50, 150))

@@ -65,3 +65,4 @@ A few handy Python utilities for working with plotter art files:
   vpype plug-in to remove lines occulted by polygons from SVG files
 * [vsketch](https://github.com/abey79/vsketch)  
   a Python generative art toolkit for plotters
+

@@ -14,10 +14,10 @@ theta = 0.0
 bpy.context.scene.frame_end = total_frames
 bpy.context.scene.frame_start = 0
 
-for x in range(30):
+for x in range(15):
     # generate a grid of cones
-    for y in range(30):
-        cone = bpy.ops.mesh.primitive_cone_add()
+    for y in range(15):
+        cone = bpy.ops.mesh.primitive_monkey_add()
         cone = bpy.context.object
         cone.name = 'Cone-{}-{}'.format(x, y)
         cone.location[0] = x * 2
@@ -31,5 +31,3 @@ for x in range(30):
             cone.scale = (scale, scale, scale)
             cone.keyframe_insert(data_path='scale')
             theta += tau / total_frames
-
-

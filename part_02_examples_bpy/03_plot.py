@@ -55,4 +55,3 @@ for i in range(30):
 # from here, i might clean up the metaballs with vpype filter & linemerge
 # e.g. vpype read render0001.svg filter -m 50 linemerge -t 50 write out.svg
 # see reference at: https://vpype.readthedocs.io/en/stable/reference.html
-
