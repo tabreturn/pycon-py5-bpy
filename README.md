@@ -50,8 +50,8 @@ Blender is open-source software for 3D modelling and animation that can also han
 ### Some inspiring work
 
 * https://blog.lightprocesses.com
+* https://gfycat.com/@selonus
 * https://github.com/a1studmuffin/SpaceshipGenerator
-* https://ylegall.github.io
 
 ---
 
