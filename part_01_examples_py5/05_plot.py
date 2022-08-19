@@ -15,8 +15,9 @@ end_record()
 
 '''
 import vpype_cli
-vpype_cli.execute('read fxape.svg write --pen-up vpyped.svg')
-vpype_cli.execute('read fxape.svg linesort write --pen-up vpyped.svg')
+vpype_cli.execute('read fxape.svg write --pen-up penup.svg')
+vpype_cli.execute('read fxape.svg linesort write --pen-up penup+linesort.svg')
 import os
-os.system('vpype read vpyped.svg occult -i write vpyped.svg')
+os.system(
+    'vpype read penup+linesort.svg occult -i write penup+linesort+occult.svg')
 '''
