@@ -4,8 +4,8 @@ size(400, 400)
 random_seed(123)
 
 stroke_weight(3)
-# face
 fill('#F00')
+# face
 circle(width/2, height/2, 300)
 #eyes
 circle(160, 150, random(50, 150))
