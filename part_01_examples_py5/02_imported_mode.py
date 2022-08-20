@@ -10,8 +10,8 @@ def setup():
 
 def draw():
     stroke_weight(3)
-    # face
     fill('#F00')
+    # face
     circle(width/2, height/2, 300)
     #eyes
     circle(160, 150, random(50, 150))
