@@ -19,7 +19,7 @@ for x in range(15):
     for y in range(15):
         cone = bpy.ops.mesh.primitive_monkey_add()
         cone = bpy.context.object
-        cone.name = 'Cone-{}-{}'.format(x, y)
+        cone.name = 'Monkey-{}-{}'.format(x, y)
         cone.location[0] = x * 2
         cone.location[1] = y * 2
         # add keyframes to each cone
