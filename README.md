@@ -24,7 +24,7 @@ Tens of thousands of students, artists, designers, researchers, and hobbyists, u
 * [GitHub discussions (forum)](https://github.com/py5coding/py5generator)
 * [GitHub issues (bugs)](https://github.com/py5coding/py5generator/issues)
 * [Processing forum](https://discourse.processing.org/c/processing-py/9)
-* [thonny-py5mode](https://github.com/tabreturn/thonny-py5mode)
+* [thonny-py5mode (Thonny plug-in)](https://github.com/tabreturn/thonny-py5mode)
 
 ### Other useful Python-Processing resources
 
@@ -41,7 +41,7 @@ Blender is open-source software for 3D modelling and animation that can also han
 
 ### Some useful resources
 
-* [Blender 3.2 Python API Documentation](https://docs.blender.org/api/current/)
+* [Blender 2.93 LTS Python API Documentation](https://docs.blender.org/api/2.93/)
 * [Jeremy Behreandt's primer on creative coding in blender](https://behreajj.medium.com/creative-coding-in-blender-2-92-a-primer-7ac1b6fec3f)
 * [Nikolai Janakiev's collection of blender scripts](https://github.com/njanakiev/blender-scripting)
 * [tabreturn's quick intro to Blender creative coding](https://tabreturn.github.io/#blender-reverse)
